@@ -1,6 +1,9 @@
-# Superstore Sales Analytics (EN)
+# Superstore Sales Analytics
+English version below  
+Versão em português abaixo
 
-This project analyzes the Superstore dataset using Power BI and Python to explore sales performance, profitability, and business insights.
+
+This project analyzes the Superstore dataset using **Power BI and Python** to explore sales performance, profitability, and business insights.
 
 The objective is to demonstrate a complete data analytics workflow, including exploratory data analysis, trend modeling, and sales forecasting.
 
@@ -9,11 +12,11 @@ The objective is to demonstrate a complete data analytics workflow, including ex
 ## Project Structure
 
 superstore-analytics
-│
-├── superstore_analysis.ipynb
-├── powerbi_dashboard.pbix
-├── Sample - Superstore.csv
-└── README.md
+
+- superstore_analysis.ipynb
+-  powerbi_dashboard.pbix
+-   Sample - Superstore.csv
+-  README.md
 
 
 ---
@@ -111,11 +114,11 @@ O objetivo é demonstrar um fluxo completo de análise de dados, incluindo anál
 ## Estrutura do Projeto
 
 superstore-analytics
-│
-├── superstore_analysis.ipynb
-├── powerbi_dashboard.pbix
-├── Sample - Superstore.csv
-└── README.md
+
+- superstore_analysis.ipynb
+- powerbi_dashboard.pbix
+- Sample - Superstore.csv
+- README.md
 
 ---
 
